@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on Computer Vision, machine learning.
 - 🌱 I’m learning multi-modal knowledge.
-- 💞️ I’m looking to collaborate on OpenMMLab.
+- 💞️ My personal [homepage](https://lum1104.github.io/).
 - 📫 How to reach me: lumyukcheung@gmail.com.
 <!-- - 👀 I’m interested in RGB-Thermal fusion Detection. -->
