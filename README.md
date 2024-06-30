@@ -2,8 +2,8 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lum1104&show_icons=true) -->
 
-- 🔭 I’m currently working on Multimodal Learning, Emotion Recognition.
-- 🌱 I’m learning multi-modal knowledge.
-- 💞️ My personal [homepage](https://lum1104.github.io/).
-- 📫 How to reach me: lin.yuxiang.contact@gmail.com.
-- 👀 I’m interested in LLM with Computer Vision!
+- 🔭 I’m currently working on Large Language Model (LLM).
+- 🌱 I love playing badminton in my spare time.
+- 💞️ Here is my personal [homepage](https://lum1104.github.io/).
+- 📫 You can fine me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu).
+<!-- - 👀 I’m interested in LLM with Computer Vision! -->
