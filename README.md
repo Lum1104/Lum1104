@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on Large Language Model (LLM).
 - 🌱 I love playing badminton in my spare time.
 - 💞️ Here is my personal [homepage](https://lum1104.github.io/).
-- 📫 You can fine me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu).
+- 📫 You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu).
 <!-- - 👀 I’m interested in LLM with Computer Vision! -->
