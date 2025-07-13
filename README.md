@@ -4,7 +4,6 @@
 - 🌱 I love playing badminton in my spare time.
 - 💞️ Here is my personal [homepage](https://lum1104.github.io/).
 - 📫 You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu).
-
-- **<font color=red>Try <a href="https://lum1104.github.io/agent-brainstorm/" target="_blank">Multi-Agent Idea Brainstorming System</a> for Research / Project brainstorming.</font>**
+- **<font color=red>Try <a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a> for automatic construct multimodal emotion recognition and reasoning dataset.</font>**
 
 <img src="https://komarev.com/ghpvc/?username=Lum1104&color=blue" />
