@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there. This is Lum!</h2>
+<h2 align="center">👋 Hi there. This is Lum! </h2>
 
 - 🔭 I’m currently working on Large Language Model (LLM), especially interested in LLM Agent, multi-agent collaboration!
 - 🌱 I love playing badminton in my spare time.
@@ -6,4 +6,4 @@
 - 📫 You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu).
 - **<font color=red>Try <a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a> for automatic construct multimodal emotion recognition and reasoning dataset.</font>**
 
-<img src="https://komarev.com/ghpvc/?username=Lum1104&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Lum1104&color=blue" /> ![star](https://img.shields.io/github/stars/Lum1104)
