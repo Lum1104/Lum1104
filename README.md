@@ -6,6 +6,11 @@
 - 📫 You can find me at [yuxiang.lin@gatech.edu](yuxiang.lin@gatech.edu).
 - **<font color=red>Try <a href="https://github.com/Lum1104/MER-Factory" target="_blank">MER-Factory</a> for automatic construct multimodal emotion recognition and reasoning dataset.</font>**
 
+### Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lum1104&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lum1104&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 > 📢 I’m looking for full-time roles. Here is my [CV](https://lum1104.github.io/resources/%E6%9E%97%E9%92%B0%E7%BF%94.pdf). If my background matches your requirements or if you’d like to discuss potential opportunities, feel free to email me.
 
 <img src="https://komarev.com/ghpvc/?username=Lum1104&color=blue" /> ![star](https://img.shields.io/github/stars/Lum1104)
