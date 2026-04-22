@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Large Language Model (LLM), especially interested in LLM Agent, multi-agent collaboration!
 - 🌱 I love playing badminton in my spare time.
 - 💞️ Here is my personal [homepage](https://lum.is-a.dev/).
-- 📫 If you are insterested in my project, or have any issue, you can find me at [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com).
+- 📫 If you are insterested in my project, or have any issue, you can find me at [lin.yuxiang.contact@gmail.com](lin.yuxiang.contact@gmail.com) or just connect at [Linkedin](https://linkedin.com/in/yuxiang-lin-lum/).
 
 ### Stats:
 
