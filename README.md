@@ -18,6 +18,6 @@
 <img src="https://komarev.com/ghpvc/?username=Lum1104&color=blue" />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Lum1104&show_icons=true&theme=light&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Barca's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Lum1104&show_icons=true&theme=light&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Lum1104's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lum1104&theme=light&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Langs" />
 </div>
