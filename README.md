@@ -21,3 +21,5 @@
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Lum1104&show_icons=true&theme=light&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Lum1104's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lum1104&theme=light&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Langs" />
 </div>
+
+My opinions are my owns, does not represent Egonex-AI (vise versa)~
